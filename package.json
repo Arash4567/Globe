@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "three": "^0.150.1",
+    "three-globe": "^2.25.4",
     "vite-plugin-string": "^1.2.1",
     "vue": "^3.2.45"
   },
